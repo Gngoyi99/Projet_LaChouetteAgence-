@@ -73,7 +73,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("/img/texture-paper-min.png");
+    background: url("./img/texture-paper-min.png");
     background-size: 280px 280px;
 }
 
@@ -399,7 +399,7 @@ h1 {
 }
 
 .bg-presentation {
-    background-image: url("/img/image-de-presentation-min.jpg");
+    background-image: url("./img/image-de-presentation-min.jpg");
 }
 
 @media (max-width: 1024px) {
